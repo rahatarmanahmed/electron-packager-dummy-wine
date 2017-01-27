@@ -1,6 +1,6 @@
 {
   "name": "electron-packager-dummy-wine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Install this to add a dummy wine executable to your path",
   "main": "index.js",
   "bin": {
