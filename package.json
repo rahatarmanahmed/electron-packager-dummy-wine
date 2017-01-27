@@ -1,0 +1,15 @@
+{
+  "name": "electron-packager-dummy-wine",
+  "version": "1.0.0",
+  "description": "Install this to add a dummy wine executable to your path",
+  "main": "index.js",
+  "bin": {
+    "wine": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rahat Ahmed",
+  "license": "ISC"
+}
