@@ -9,7 +9,8 @@
   "scripts": {
     "test": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["electron", "electron-packager", "wine"],
+  "repository": "rahatarmanahmed/electron-packager-dummy-wine",
   "author": "Rahat Ahmed",
   "license": "ISC"
 }
