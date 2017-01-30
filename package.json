@@ -1,6 +1,6 @@
 {
   "name": "electron-packager-dummy-wine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Install this to add a dummy wine executable to your path",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,11 @@
   "scripts": {
     "test": "node index.js"
   },
-  "keywords": ["electron", "electron-packager", "wine"],
+  "keywords": [
+    "electron",
+    "electron-packager",
+    "wine"
+  ],
   "repository": "rahatarmanahmed/electron-packager-dummy-wine",
   "author": "Rahat Ahmed",
   "license": "ISC"
