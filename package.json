@@ -4,7 +4,8 @@
   "description": "Install this to add a dummy wine executable to your path",
   "main": "index.js",
   "bin": {
-    "wine": "./index.js"
+    "wine": "./index.js",
+    "wine64": "./index.js"
   },
   "scripts": {
     "test": "node index.js"
